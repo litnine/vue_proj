@@ -4,6 +4,7 @@ body,
     height: 100%;
     margin: 0;
     padding: 0;
+    min-width: 1366px;
 }
 
 .el-breadcrumb {
@@ -15,6 +16,7 @@ body,
 .el-card {
     margin-left: 20px;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) !important;
+    width: 1100px;
 }
 
 .el-table {
