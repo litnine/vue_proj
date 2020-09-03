@@ -27,3 +27,11 @@ body,
 .el-pagination {
     margin-top: 15px;
 }
+
+.treeTable {
+    margin-top: 15px;
+}
+
+.el-cascader-panel {
+    max-height: 250px !important;
+}
