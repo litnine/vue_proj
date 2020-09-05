@@ -11,7 +11,7 @@
       <!-- 添加按钮 -->
       <el-row>
         <el-col>
-          <el-button type="primary" @click="showAddCateDialog">
+          <el-button type="primary" @click="showAddCateDialog" >
             添加按钮
           </el-button>
         </el-col>
