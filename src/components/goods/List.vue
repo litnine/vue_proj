@@ -198,8 +198,8 @@ export default {
             goods_number: this.editForm.goods_number,
             goods_weight: this.editForm.goods_weight,
             goods_introduce: this.editForm.goods_introduce,
-            pics:this.editForm.pics,
-            attrs:this.editForm.attrs,
+            // pics:this.editForm.pics,
+            // attrs:this.editForm.attrs,
           }
         );
         console.log(res);
