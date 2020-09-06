@@ -113,9 +113,9 @@
       @close="editDialogClose"
     >
       <!-- 主体区域 -->
+      <!--  :rules="editFormRules" -->
       <el-form
         :model="editForm"
-        :rules="editFormRules"
         ref="editFormRef"
         label-width="70px"
       >
