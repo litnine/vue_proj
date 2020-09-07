@@ -1,4 +1,6 @@
 import Vue from 'vue'
+
+
 //导入弹框提示组件
 import {
     Button,
@@ -41,6 +43,7 @@ import {
     Upload
 } from 'element-ui'
 
+
 Vue.use(Button)
 Vue.use(Form)
 Vue.use(FormItem)
@@ -77,6 +80,7 @@ Vue.use(Steps)
 Vue.use(CheckboxGroup)
 Vue.use(Checkbox)
 Vue.use(Upload)
+
 
 
 
